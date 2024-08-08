@@ -130,4 +130,3 @@ function cena2(){
   text("Futuro começa!", -400,450);
   pop();
 }
-# Projeto.p5.js
